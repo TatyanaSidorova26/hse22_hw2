@@ -3,8 +3,6 @@
 
 [Подготовка файлов и задание в Google Colab](https://colab.research.google.com/drive/1Y1Y-aCBoE_2Zq2pV0aKhmmP9W8P4u-VS#scrollTo=1K47k7_07bb5)
 
-*по неизвестной причине файлы proteins.fasta и scaffolds.hits_from_SwissProt.txt не скачиваются на устройство, однако в они присутствуют в колабе
-
 # Статистика
 
 - Всего предсазано генов - 3602
